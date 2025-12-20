@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Bhavesh 👋
 
-<!--
-**Bhavesh2011/Bhavesh2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student passionate about software development  
+💡 Curious about how systems work and enjoy building projects  
+🚀 Always learning and improving coding skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- C  
+- C++  
+- Java  
+- JavaScript  
+- Python  
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms  
+- DBMS  
+- Web Development  
+- Git & GitHub  
+
+---
+
+## 📌 Projects
+- 🌦️ Weather App  
+- 🧠 Logic Building Assignments  
+- 🐍 Python Mini Projects  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [Bhavesh2011](https://github.com/Bhavesh2011)
+- LinkedIn: *(add link if you have one)*
+
+---
+
+⭐ *Keep learning, keep building!*
