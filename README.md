@@ -31,8 +31,8 @@
 ---
 
 ## 📫 Connect with Me
-- GitHub: [Bhavesh2011](https://github.com/Bhavesh2011)
-- LinkedIn: *(add link if you have one)*
+- GitHub: https://github.com/Bhavesh2011
+- LinkedIn: https://www.linkedin.com/in/bhavesh-gaikwad-470a21301/
 
 ---
 
