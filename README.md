@@ -35,6 +35,7 @@
 - LinkedIn: https://www.linkedin.com/in/bhavesh-gaikwad-470a21301/
 
 ![Bhavesh Github stats](https://github-readme-stats.vercel.app/api?username=Bhavesh2011&show_icons=true&theme=radical)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh2011&layout=compact&theme=radical)
 
 ---
