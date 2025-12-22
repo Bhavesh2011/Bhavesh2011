@@ -34,6 +34,9 @@
 - GitHub: https://github.com/Bhavesh2011
 - LinkedIn: https://www.linkedin.com/in/bhavesh-gaikwad-470a21301/
 
+https://github-readme-stats.vercel.app/api?username=Bhavesh2011&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh2011&layout=compact&theme=radical
+
 ---
 
 ⭐ *Keep learning, keep building!*
