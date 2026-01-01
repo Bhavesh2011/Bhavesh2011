@@ -1,43 +1,18 @@
-# Hi, I'm Bhavesh 👋
+# 💫 About Me:
+iam Currently learning
 
-🎓 Engineering student passionate about software development  
-💡 Curious about how systems work and enjoy building projects  
-🚀 Always learning and improving coding skills  
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshgaikwad2238@gmail.com) 
 
-## 🛠️ Tech Stack
-- C  
-- C++  
-- Java  
-- JavaScript  
-- Python  
-
----
-
-## 🌱 Currently Learning
-- Data Structures & Algorithms  
-- DBMS  
-- Web Development  
-- Git & GitHub  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bhavesh2011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bhavesh2011&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh2011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Bhavesh2011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Projects
-- 🌦️ Weather App  
-- 🧠 Logic Building Assignments  
-- 🐍 Python Mini Projects  
-
----
-
-## 📫 Connect with Me
-- GitHub: https://github.com/Bhavesh2011
-- LinkedIn: https://www.linkedin.com/in/bhavesh-gaikwad-470a21301/
-
-![Bhavesh Github stats](https://github-readme-stats.vercel.app/api?username=Bhavesh2011&show_icons=true&theme=radical)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh2011&layout=compact&theme=radical)
-
----
-
-⭐ *Keep learning, keep building!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
