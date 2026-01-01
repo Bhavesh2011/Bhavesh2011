@@ -1,18 +1,54 @@
-# 💫 About Me:
-iam Currently learning
+# Hi, I'm Bhavesh Gaikwad
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshgaikwad2238@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhavesh2011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhavesh2011&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh2011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am an engineering student with a strong interest in software development and problem-solving.  
+I enjoy understanding how systems work internally and applying that knowledge to build efficient and scalable applications.  
+I am continuously learning new technologies and improving my coding and design skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhavesh2011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Technical Skills
+
+### Programming Languages
+- C (core concepts, procedural programming, memory management)
+- C++ (object-oriented programming, STL)
+- Java (OOP principles, collections, basic multithreading)
+- JavaScript (ES6+, DOM manipulation)
+
+### Frameworks & Libraries
+- Spring / Spring Boot (basics, RESTful services)
+- React (component-based UI development, hooks)
+
+### Databases
+- SQL (MySQL – queries, joins, normalization)
+- MongoDB (NoSQL concepts, CRUD operations)
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Basic Linux commands
+
+---
+
+## Currently Learning
+- Data Structures and Algorithms
+- Advanced Java and Spring Boot
+- Full Stack Web Development
+- Database design and optimization
+
+---
+
+## Projects
+- Weather Application (API integration, frontend development)
+- Logic Building Assignments in C/C++
+- Java and Python Mini Projects
+- Web applications using HTML, CSS, JavaScript, and React
+
+---
+
+## Contact
+- GitHub: https://github.com/Bhavesh2011  
+- LinkedIn: (https://www.linkedin.com/in/bhavesh-gaikwad-470a21301/)
+
+---
+
+I am actively seeking opportunities to learn, collaborate, and grow as a software developer.
